@@ -7,6 +7,11 @@ environment:
   sdk: ^3.3.4
 
 dependencies:
+  flutter_bloc: ^8.1.6
+  bloc: ^8.1.4
+  dio: ^5.7.0
+  dartz: ^0.10.1
+  equatable: ^2.0.5
   cached_network_image:
   carousel_slider_plus:
   flutter:
